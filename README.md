@@ -3,4 +3,9 @@
 device/samsung, hardware/samsung, kernel/samsung folders for Havoc-OS build
 
 Bugs:
-idk, didn't build it
+
+Mobile data 
+
+Offline charging
+
+Permissive SELinux
